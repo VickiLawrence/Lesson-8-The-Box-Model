@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  height: 10%;
+  background-color: r#cd234a;
+  color: rgb(250, 250, 250);
+  padding: 1em;
+  font-size: medium;
+}
+
+nav {
+  width: 100%;
+  height: 1.5em;
+  background-color: #cd234a;
+  color: whitesmoke;
+}
+
+a {
+  color: white;
+}
+
+main {
+  width: 80%;
+  height: 24em;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #cd234a;
+  font-family:'Times New Roman', Times, serif;
+  
+}
+
+section {
+  width: 100%;
+  height: 100%;
+  float: left;
+  background-color: #cd234a;
+  padding: .5em;
+}
+
+
+footer {
+  width: 100%;
+  height: 10em;
+  clear: both;
+  background-color: rgba(6, 134, 124, 0.329);
+  color: rgb(241, 169, 80);
+  text-align: center;
+  padding-top: .5em;
+}
